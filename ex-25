@@ -1,0 +1,2 @@
+def general_dientes(mi_usuario):
+   for indice in range(1,int(mi_usuario)):

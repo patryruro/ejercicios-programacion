@@ -1,0 +1,2 @@
+saludo = ("variable")
+print (saludo)
